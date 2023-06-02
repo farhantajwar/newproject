@@ -1,0 +1,76 @@
+* { padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    text-decoration: none;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.row {
+    width: 100%;
+    float: left;
+}
+header {
+    background-color: #87509c;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px;
+}
+.logo-part {
+    width: 50%;
+    float: left;
+}
+.menu-part {
+    width: 50%;
+    float: left;
+}
+#service {
+    background-color: #17c2a4;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px;
+}
+.box {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+#service1 {
+    background-color: #e7f1f8;
+    color: #3c4761;
+    text-align: center;
+    padding: 40px;
+}
+#service2 {
+    background-color: #ffffff;
+    color: #3c4761;
+    text-align: center;
+    padding: 40px;
+}
+#service3 {
+    background-color: #ffdd99;
+    color: #393939;
+    text-align: center;
+    padding: 40px;
+}
+#service4 {
+    background-color: #d74680;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+}
+#service5 {
+    background-color: #3c5499;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+}
+footer {
+    background-color: #344b8e;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+}
+.button1 {background-color: #eb7d4b;}
